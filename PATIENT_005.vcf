@@ -1,0 +1,5 @@
+##fileformat=VCFv4.2
+##source=PharmaGuard_Test
+##reference=GRCh38
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	PATIENT_005
+6	18130918	rs1142345	G	A	.	PASS	GENE=TPMT	GT	1/1

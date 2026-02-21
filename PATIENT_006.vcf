@@ -1,0 +1,5 @@
+##fileformat=VCFv4.2
+##source=PharmaGuard_Test
+##reference=GRCh38
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	PATIENT_006
+1	97770983	rs3918290	C	T	.	PASS	GENE=DPYD	GT	0/1
